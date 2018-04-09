@@ -1,0 +1,2243 @@
+"2017-03": [
+  {
+    "neighborhood": "Alameda",
+    "roomType": "Entire home/apt",
+    "countRoomType": 37,
+    "sumReviews": 1669,
+    "avgPrice": 165.62,
+    "avgBedrooms": 1.97,
+    "avgAccommodates": 4.51
+  },
+  {
+    "neighborhood": "Alameda",
+    "roomType": "Private room",
+    "countRoomType": 26,
+    "sumReviews": 1232,
+    "avgPrice": 73.23,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.12
+  },
+  {
+    "neighborhood": "Alameda",
+    "roomType": "Total",
+    "countRoomType": 63,
+    "sumReviews": 2901,
+    "avgPrice": 127.49,
+    "avgBedrooms": 1.57,
+    "avgAccommodates": 3.52
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Entire home/apt",
+    "countRoomType": 35,
+    "sumReviews": 1132,
+    "avgPrice": 107.03,
+    "avgBedrooms": 1.31,
+    "avgAccommodates": 3.89
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Private room",
+    "countRoomType": 22,
+    "sumReviews": 1021,
+    "avgPrice": 57.09,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.18
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Total",
+    "countRoomType": 57,
+    "sumReviews": 2153,
+    "avgPrice": 87.75,
+    "avgBedrooms": 1.19,
+    "avgAccommodates": 3.23
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Entire home/apt",
+    "countRoomType": 2,
+    "sumReviews": 71,
+    "avgPrice": 75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.5
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 18,
+    "avgPrice": 65,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.5
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Total",
+    "countRoomType": 4,
+    "sumReviews": 89,
+    "avgPrice": 70,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.5
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 7,
+    "avgPrice": 85,
+    "avgBedrooms": 3,
+    "avgAccommodates": 5
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Private room",
+    "countRoomType": 6,
+    "sumReviews": 129,
+    "avgPrice": 49.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.33
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Total",
+    "countRoomType": 7,
+    "sumReviews": 136,
+    "avgPrice": 54.71,
+    "avgBedrooms": 1.29,
+    "avgAccommodates": 2.71
+  },
+  {
+    "neighborhood": "Boise",
+    "roomType": "Entire home/apt",
+    "countRoomType": 113,
+    "sumReviews": 7009,
+    "avgPrice": 121.45,
+    "avgBedrooms": 1.65,
+    "avgAccommodates": 4.32
+  },
+  {
+    "neighborhood": "Boise",
+    "roomType": "Private room",
+    "countRoomType": 45,
+    "sumReviews": 2312,
+    "avgPrice": 62.07,
+    "avgBedrooms": 1.02,
+    "avgAccommodates": 2.38
+  },
+  {
+    "neighborhood": "Boise",
+    "roomType": "Shared room",
+    "countRoomType": 9,
+    "sumReviews": 404,
+    "avgPrice": 34.44,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Boise",
+    "roomType": "Total",
+    "countRoomType": 167,
+    "sumReviews": 9725,
+    "avgPrice": 100.76,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": "3.62https://www.csvjson.com/csv2json#"
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Entire home/apt",
+    "countRoomType": 12,
+    "sumReviews": 376,
+    "avgPrice": 92.42,
+    "avgBedrooms": 1.67,
+    "avgAccommodates": 4.58
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Private room",
+    "countRoomType": 9,
+    "sumReviews": 263,
+    "avgPrice": 64.78,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Shared room",
+    "countRoomType": 2,
+    "sumReviews": 3,
+    "avgPrice": 51.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Total",
+    "countRoomType": 23,
+    "sumReviews": 642,
+    "avgPrice": 78.04,
+    "avgBedrooms": 1.35,
+    "avgAccommodates": 3.26
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 8,
+    "sumReviews": 79,
+    "avgPrice": 153.38,
+    "avgBedrooms": 1.63,
+    "avgAccommodates": 3.88
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Private room",
+    "countRoomType": 3,
+    "sumReviews": 16,
+    "avgPrice": 97.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Total",
+    "countRoomType": 11,
+    "sumReviews": 95,
+    "avgPrice": 138.18,
+    "avgBedrooms": 1.45,
+    "avgAccommodates": 3.36
+  },
+  {
+    "neighborhood": "Bridlemile",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 322,
+    "avgPrice": 87,
+    "avgBedrooms": 0.75,
+    "avgAccommodates": 2.75
+  },
+  {
+    "neighborhood": "Bridlemile",
+    "roomType": "Private room",
+    "countRoomType": 4,
+    "sumReviews": 123,
+    "avgPrice": 68.25,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Bridlemile",
+    "roomType": "Total",
+    "countRoomType": 8,
+    "sumReviews": 445,
+    "avgPrice": 77.63,
+    "avgBedrooms": 0.88,
+    "avgAccommodates": 2.38
+  },
+  {
+    "neighborhood": "Brooklyn",
+    "roomType": "Entire home/apt",
+    "countRoomType": 28,
+    "sumReviews": 1170,
+    "avgPrice": 110.11,
+    "avgBedrooms": 1.79,
+    "avgAccommodates": 4.57
+  },
+  {
+    "neighborhood": "Brooklyn",
+    "roomType": "Private room",
+    "countRoomType": 15,
+    "sumReviews": 836,
+    "avgPrice": 60.27,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.07
+  },
+  {
+    "neighborhood": "Brooklyn",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 21,
+    "avgPrice": 25,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Brooklyn",
+    "roomType": "Total",
+    "countRoomType": 44,
+    "sumReviews": 2027,
+    "avgPrice": 91.18,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 3.64
+  },
+  {
+    "neighborhood": "Buckman",
+    "roomType": "Entire home/apt",
+    "countRoomType": 103,
+    "sumReviews": 4945,
+    "avgPrice": 146.23,
+    "avgBedrooms": 1.27,
+    "avgAccommodates": 3.93
+  },
+  {
+    "neighborhood": "Buckman",
+    "roomType": "Private room",
+    "countRoomType": 28,
+    "sumReviews": 1064,
+    "avgPrice": 67.61,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.07
+  },
+  {
+    "neighborhood": "Buckman",
+    "roomType": "Shared room",
+    "countRoomType": 2,
+    "sumReviews": 0,
+    "avgPrice": 87.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.5
+  },
+  {
+    "neighborhood": "Buckman",
+    "roomType": "Total",
+    "countRoomType": 133,
+    "sumReviews": 6009,
+    "avgPrice": 128.8,
+    "avgBedrooms": 1.21,
+    "avgAccommodates": 3.5
+  },
+  {
+    "neighborhood": "Cathedral Park",
+    "roomType": "Entire home/apt",
+    "countRoomType": 32,
+    "sumReviews": 634,
+    "avgPrice": 104.94,
+    "avgBedrooms": 1.63,
+    "avgAccommodates": 4.13
+  },
+  {
+    "neighborhood": "Cathedral Park",
+    "roomType": "Private room",
+    "countRoomType": 27,
+    "sumReviews": 818,
+    "avgPrice": 52.04,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.15
+  },
+  {
+    "neighborhood": "Cathedral Park",
+    "roomType": "Total",
+    "countRoomType": 59,
+    "sumReviews": 1452,
+    "avgPrice": 80.73,
+    "avgBedrooms": 1.34,
+    "avgAccommodates": 3.22
+  },
+  {
+    "neighborhood": "Centennial",
+    "roomType": "Entire home/apt",
+    "countRoomType": 3,
+    "sumReviews": 13,
+    "avgPrice": 98.67,
+    "avgBedrooms": 2.67,
+    "avgAccommodates": 3.67
+  },
+  {
+    "neighborhood": "Centennial",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 143,
+    "avgPrice": 57.38,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.38
+  },
+  {
+    "neighborhood": "Centennial",
+    "roomType": "Shared room",
+    "countRoomType": 2,
+    "sumReviews": 17,
+    "avgPrice": 37.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Centennial",
+    "roomType": "Total",
+    "countRoomType": 13,
+    "sumReviews": 173,
+    "avgPrice": 63.85,
+    "avgBedrooms": 1.38,
+    "avgAccommodates": 2.62
+  },
+  {
+    "neighborhood": "Center",
+    "roomType": "Entire home/apt",
+    "countRoomType": 47,
+    "sumReviews": 1367,
+    "avgPrice": 138.66,
+    "avgBedrooms": 1.55,
+    "avgAccommodates": 3.68
+  },
+  {
+    "neighborhood": "Center",
+    "roomType": "Private room",
+    "countRoomType": 21,
+    "sumReviews": 655,
+    "avgPrice": 61.9,
+    "avgBedrooms": 0.95,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Center",
+    "roomType": "Total",
+    "countRoomType": 68,
+    "sumReviews": 2022,
+    "avgPrice": 114.96,
+    "avgBedrooms": 1.37,
+    "avgAccommodates": 3.16
+  },
+  {
+    "neighborhood": "Central Beaverton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 6,
+    "sumReviews": 279,
+    "avgPrice": 117.33,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "Central Beaverton",
+    "roomType": "Private room",
+    "countRoomType": 3,
+    "sumReviews": 19,
+    "avgPrice": 74.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.67
+  },
+  {
+    "neighborhood": "Central Beaverton",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 24,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Central Beaverton",
+    "roomType": "Total",
+    "countRoomType": 10,
+    "sumReviews": 298,
+    "avgPrice": 95.2,
+    "avgBedrooms": 1.3,
+    "avgAccommodates": 3.3
+  },
+  {
+    "neighborhood": "Concordia",
+    "roomType": "Entire home/apt",
+    "countRoomType": 105,
+    "sumReviews": 4529,
+    "avgPrice": 126.57,
+    "avgBedrooms": 1.47,
+    "avgAccommodates": 3.9
+  },
+  {
+    "neighborhood": "Concordia",
+    "roomType": "Private room",
+    "countRoomType": 49,
+    "sumReviews": 2327,
+    "avgPrice": 71.94,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.29
+  },
+  {
+    "neighborhood": "Concordia",
+    "roomType": "Total",
+    "countRoomType": 154,
+    "sumReviews": 6856,
+    "avgPrice": 109.19,
+    "avgBedrooms": 1.32,
+    "avgAccommodates": 3.39
+  },
+  {
+    "neighborhood": "Corbett-Terwilliger-Lair Hill",
+    "roomType": "Entire home/apt",
+    "countRoomType": 30,
+    "sumReviews": 367,
+    "avgPrice": 135.37,
+    "avgBedrooms": 1.57,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "Corbett-Terwilliger-Lair Hill",
+    "roomType": "Private room",
+    "countRoomType": 27,
+    "sumReviews": 659,
+    "avgPrice": 71.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.89
+  },
+  {
+    "neighborhood": "Corbett-Terwilliger-Lair Hill",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 65,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Corbett-Terwilliger-Lair Hill",
+    "roomType": "Total",
+    "countRoomType": 58,
+    "sumReviews": 1026,
+    "avgPrice": 104.5,
+    "avgBedrooms": 1.29,
+    "avgAccommodates": 2.97
+  },
+  {
+    "neighborhood": "Creston-Kenilworth",
+    "roomType": "Entire home/apt",
+    "countRoomType": 18,
+    "sumReviews": 587,
+    "avgPrice": 121.11,
+    "avgBedrooms": 1.78,
+    "avgAccommodates": 4.44
+  },
+  {
+    "neighborhood": "Creston-Kenilworth",
+    "roomType": "Private room",
+    "countRoomType": 22,
+    "sumReviews": 1124,
+    "avgPrice": 52.41,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.18
+  },
+  {
+    "neighborhood": "Creston-Kenilworth",
+    "roomType": "Total",
+    "countRoomType": 40,
+    "sumReviews": 1711,
+    "avgPrice": 83.33,
+    "avgBedrooms": 1.35,
+    "avgAccommodates": 3.2
+  },
+  {
+    "neighborhood": "Cully",
+    "roomType": "Entire home/apt",
+    "countRoomType": 64,
+    "sumReviews": 2981,
+    "avgPrice": 113.78,
+    "avgBedrooms": 1.42,
+    "avgAccommodates": 3.94
+  },
+  {
+    "neighborhood": "Cully",
+    "roomType": "Private room",
+    "countRoomType": 47,
+    "sumReviews": 2566,
+    "avgPrice": 48.79,
+    "avgBedrooms": 1.02,
+    "avgAccommodates": 2.21
+  },
+  {
+    "neighborhood": "Cully",
+    "roomType": "Total",
+    "countRoomType": 111,
+    "sumReviews": 5547,
+    "avgPrice": 86.26,
+    "avgBedrooms": 1.25,
+    "avgAccommodates": 3.21
+  },
+  {
+    "neighborhood": "Denny Whitford",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 29,
+    "avgPrice": 138.75,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 5.75
+  },
+  {
+    "neighborhood": "Denny Whitford",
+    "roomType": "Total",
+    "countRoomType": 4,
+    "sumReviews": 29,
+    "avgPrice": 138.75,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 5.75
+  },
+  {
+    "neighborhood": "Downtown",
+    "roomType": "Entire home/apt",
+    "countRoomType": 39,
+    "sumReviews": 1373,
+    "avgPrice": 149.74,
+    "avgBedrooms": 1.15,
+    "avgAccommodates": 3.69
+  },
+  {
+    "neighborhood": "Downtown",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 126,
+    "avgPrice": 78.38,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Downtown",
+    "roomType": "Shared room",
+    "countRoomType": 3,
+    "sumReviews": 23,
+    "avgPrice": 50,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.67
+  },
+  {
+    "neighborhood": "Downtown",
+    "roomType": "Total",
+    "countRoomType": 50,
+    "sumReviews": 1522,
+    "avgPrice": 132.34,
+    "avgBedrooms": 1.12,
+    "avgAccommodates": 3.3
+  },
+  {
+    "neighborhood": "Eastmoreland",
+    "roomType": "Entire home/apt",
+    "countRoomType": 18,
+    "sumReviews": 609,
+    "avgPrice": 123.56,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": 3.72
+  },
+  {
+    "neighborhood": "Eastmoreland",
+    "roomType": "Private room",
+    "countRoomType": 6,
+    "sumReviews": 316,
+    "avgPrice": 70.83,
+    "avgBedrooms": 1.17,
+    "avgAccommodates": 2.5
+  },
+  {
+    "neighborhood": "Eastmoreland",
+    "roomType": "Total",
+    "countRoomType": 24,
+    "sumReviews": 925,
+    "avgPrice": 110.38,
+    "avgBedrooms": 1.38,
+    "avgAccommodates": 3.42
+  },
+  {
+    "neighborhood": "Eliot",
+    "roomType": "Entire home/apt",
+    "countRoomType": 45,
+    "sumReviews": 2639,
+    "avgPrice": 123.13,
+    "avgBedrooms": 1.53,
+    "avgAccommodates": 4.44
+  },
+  {
+    "neighborhood": "Eliot",
+    "roomType": "Private room",
+    "countRoomType": 13,
+    "sumReviews": 632,
+    "avgPrice": 79.31,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.15
+  },
+  {
+    "neighborhood": "Eliot",
+    "roomType": "Total",
+    "countRoomType": 58,
+    "sumReviews": 3271,
+    "avgPrice": 113.31,
+    "avgBedrooms": 1.41,
+    "avgAccommodates": 3.93
+  },
+  {
+    "neighborhood": "Far Southwest",
+    "roomType": "Entire home/apt",
+    "countRoomType": 24,
+    "sumReviews": 583,
+    "avgPrice": 133.46,
+    "avgBedrooms": 1.71,
+    "avgAccommodates": 4.71
+  },
+  {
+    "neighborhood": "Far Southwest",
+    "roomType": "Private room",
+    "countRoomType": 23,
+    "sumReviews": 519,
+    "avgPrice": 60.43,
+    "avgBedrooms": 1.04,
+    "avgAccommodates": 2.35
+  },
+  {
+    "neighborhood": "Far Southwest",
+    "roomType": "Shared room",
+    "countRoomType": 2,
+    "sumReviews": 44,
+    "avgPrice": 47.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Far Southwest",
+    "roomType": "Total",
+    "countRoomType": 49,
+    "sumReviews": 1146,
+    "avgPrice": 95.67,
+    "avgBedrooms": 1.37,
+    "avgAccommodates": 3.49
+  },
+  {
+    "neighborhood": "Five Oaks",
+    "roomType": "Private room",
+    "countRoomType": 5,
+    "sumReviews": 39,
+    "avgPrice": 42.8,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.2
+  },
+  {
+    "neighborhood": "Five Oaks",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 39,
+    "avgPrice": 42.8,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.2
+  },
+  {
+    "neighborhood": "Forest Park",
+    "roomType": "Entire home/apt",
+    "countRoomType": 30,
+    "sumReviews": 796,
+    "avgPrice": 190.57,
+    "avgBedrooms": 2.27,
+    "avgAccommodates": 5.4
+  },
+  {
+    "neighborhood": "Forest Park",
+    "roomType": "Private room",
+    "countRoomType": 16,
+    "sumReviews": 486,
+    "avgPrice": 102.13,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.19
+  },
+  {
+    "neighborhood": "Forest Park",
+    "roomType": "Total",
+    "countRoomType": 46,
+    "sumReviews": 1282,
+    "avgPrice": 159.8,
+    "avgBedrooms": 1.83,
+    "avgAccommodates": 4.28
+  },
+  {
+    "neighborhood": "Foster Powell",
+    "roomType": "Entire home/apt",
+    "countRoomType": 21,
+    "sumReviews": 583,
+    "avgPrice": 102.67,
+    "avgBedrooms": 1.62,
+    "avgAccommodates": 4.24
+  },
+  {
+    "neighborhood": "Foster Powell",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 381,
+    "avgPrice": 57.38,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.25
+  },
+  {
+    "neighborhood": "Foster Powell",
+    "roomType": "Total",
+    "countRoomType": 29,
+    "sumReviews": 964,
+    "avgPrice": 90.17,
+    "avgBedrooms": 1.45,
+    "avgAccommodates": 3.69
+  },
+  {
+    "neighborhood": "Greenway",
+    "roomType": "Entire home/apt",
+    "countRoomType": 2,
+    "sumReviews": 22,
+    "avgPrice": 104,
+    "avgBedrooms": 2.5,
+    "avgAccommodates": 4.5
+  },
+  {
+    "neighborhood": "Greenway",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 21,
+    "avgPrice": 48,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Greenway",
+    "roomType": "Total",
+    "countRoomType": 4,
+    "sumReviews": 43,
+    "avgPrice": 76,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Hayhurst",
+    "roomType": "Entire home/apt",
+    "countRoomType": 11,
+    "sumReviews": 402,
+    "avgPrice": 122.45,
+    "avgBedrooms": 1.55,
+    "avgAccommodates": 4.09
+  },
+  {
+    "neighborhood": "Hayhurst",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 127,
+    "avgPrice": 61.75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Hayhurst",
+    "roomType": "Total",
+    "countRoomType": 19,
+    "sumReviews": 529,
+    "avgPrice": 96.89,
+    "avgBedrooms": 1.32,
+    "avgAccommodates": 3.21
+  },
+  {
+    "neighborhood": "Hazelwood",
+    "roomType": "Entire home/apt",
+    "countRoomType": 7,
+    "sumReviews": 315,
+    "avgPrice": 88,
+    "avgBedrooms": 1.71,
+    "avgAccommodates": 4.43
+  },
+  {
+    "neighborhood": "Hazelwood",
+    "roomType": "Private room",
+    "countRoomType": 14,
+    "sumReviews": 152,
+    "avgPrice": 51.86,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Hazelwood",
+    "roomType": "Total",
+    "countRoomType": 21,
+    "sumReviews": 467,
+    "avgPrice": 63.9,
+    "avgBedrooms": 1.24,
+    "avgAccommodates": 2.81
+  },
+  {
+    "neighborhood": "Hector Campbell",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 2,
+    "avgPrice": 85,
+    "avgBedrooms": 3,
+    "avgAccommodates": 6
+  },
+  {
+    "neighborhood": "Hector Campbell",
+    "roomType": "Total",
+    "countRoomType": 1,
+    "sumReviews": 2,
+    "avgPrice": 85,
+    "avgBedrooms": 3,
+    "avgAccommodates": 6
+  },
+  {
+    "neighborhood": "Highlands",
+    "roomType": "Entire home/apt",
+    "countRoomType": 5,
+    "sumReviews": 104,
+    "avgPrice": 105.6,
+    "avgBedrooms": 1.8,
+    "avgAccommodates": 3.6
+  },
+  {
+    "neighborhood": "Highlands",
+    "roomType": "Private room",
+    "countRoomType": 4,
+    "sumReviews": 136,
+    "avgPrice": 49.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.5
+  },
+  {
+    "neighborhood": "Highlands",
+    "roomType": "Total",
+    "countRoomType": 9,
+    "sumReviews": 240,
+    "avgPrice": 80.67,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": 2.67
+  },
+  {
+    "neighborhood": "Hillsdale",
+    "roomType": "Entire home/apt",
+    "countRoomType": 22,
+    "sumReviews": 846,
+    "avgPrice": 138.82,
+    "avgBedrooms": 1.68,
+    "avgAccommodates": 4.86
+  },
+  {
+    "neighborhood": "Hillsdale",
+    "roomType": "Private room",
+    "countRoomType": 15,
+    "sumReviews": 554,
+    "avgPrice": 65.67,
+    "avgBedrooms": 1.07,
+    "avgAccommodates": 2.4
+  },
+  {
+    "neighborhood": "Hillsdale",
+    "roomType": "Total",
+    "countRoomType": 37,
+    "sumReviews": 1400,
+    "avgPrice": 109.16,
+    "avgBedrooms": 1.43,
+    "avgAccommodates": 3.86
+  },
+  {
+    "neighborhood": "Homestead",
+    "roomType": "Entire home/apt",
+    "countRoomType": 16,
+    "sumReviews": 583,
+    "avgPrice": 112.06,
+    "avgBedrooms": 1.19,
+    "avgAccommodates": 3.13
+  },
+  {
+    "neighborhood": "Homestead",
+    "roomType": "Private room",
+    "countRoomType": 12,
+    "sumReviews": 579,
+    "avgPrice": 67.75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.17
+  },
+  {
+    "neighborhood": "Homestead",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 3,
+    "avgPrice": 45,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Homestead",
+    "roomType": "Total",
+    "countRoomType": 29,
+    "sumReviews": 1165,
+    "avgPrice": 91.41,
+    "avgBedrooms": 1.1,
+    "avgAccommodates": 2.66
+  },
+  {
+    "neighborhood": "Hosford",
+    "roomType": "Entire home/apt",
+    "countRoomType": 90,
+    "sumReviews": 4476,
+    "avgPrice": 137.34,
+    "avgBedrooms": 1.49,
+    "avgAccommodates": 3.86
+  },
+  {
+    "neighborhood": "Hosford",
+    "roomType": "Private room",
+    "countRoomType": 34,
+    "sumReviews": 2194,
+    "avgPrice": 65.15,
+    "avgBedrooms": 1.06,
+    "avgAccommodates": 2.29
+  },
+  {
+    "neighborhood": "Hosford",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 336,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Hosford",
+    "roomType": "Total",
+    "countRoomType": 125,
+    "sumReviews": 6670,
+    "avgPrice": 119.3,
+    "avgBedrooms": 1.37,
+    "avgAccommodates": 3.42
+  },
+  {
+    "neighborhood": "Irvington",
+    "roomType": "Entire home/apt",
+    "countRoomType": 57,
+    "sumReviews": 2972,
+    "avgPrice": 123.63,
+    "avgBedrooms": 1.46,
+    "avgAccommodates": 4.09
+  },
+  {
+    "neighborhood": "Irvington",
+    "roomType": "Private room",
+    "countRoomType": 43,
+    "sumReviews": 2407,
+    "avgPrice": 78.33,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.35
+  },
+  {
+    "neighborhood": "Irvington",
+    "roomType": "Shared room",
+    "countRoomType": 5,
+    "sumReviews": 288,
+    "avgPrice": 32,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.4
+  },
+  {
+    "neighborhood": "Irvington",
+    "roomType": "Total",
+    "countRoomType": 105,
+    "sumReviews": 5667,
+    "avgPrice": 100.71,
+    "avgBedrooms": 1.25,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Kenton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 27,
+    "sumReviews": 907,
+    "avgPrice": 100.11,
+    "avgBedrooms": 1.52,
+    "avgAccommodates": 3.89
+  },
+  {
+    "neighborhood": "Kenton",
+    "roomType": "Private room",
+    "countRoomType": 25,
+    "sumReviews": 1422,
+    "avgPrice": 48.56,
+    "avgBedrooms": 1.04,
+    "avgAccommodates": 2.28
+  },
+  {
+    "neighborhood": "Kenton",
+    "roomType": "Total",
+    "countRoomType": 52,
+    "sumReviews": 2329,
+    "avgPrice": 75.33,
+    "avgBedrooms": 1.29,
+    "avgAccommodates": 3.12
+  },
+  {
+    "neighborhood": "Kerns",
+    "roomType": "Entire home/apt",
+    "countRoomType": 61,
+    "sumReviews": 2643,
+    "avgPrice": 137.49,
+    "avgBedrooms": 0.98,
+    "avgAccommodates": 3.85
+  },
+  {
+    "neighborhood": "Kerns",
+    "roomType": "Private room",
+    "countRoomType": 13,
+    "sumReviews": 592,
+    "avgPrice": 73.15,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.15
+  },
+  {
+    "neighborhood": "Kerns",
+    "roomType": "Total",
+    "countRoomType": 74,
+    "sumReviews": 3235,
+    "avgPrice": 126.19,
+    "avgBedrooms": 0.99,
+    "avgAccommodates": 3.55
+  },
+  {
+    "neighborhood": "King",
+    "roomType": "Entire home/apt",
+    "countRoomType": 177,
+    "sumReviews": 7176,
+    "avgPrice": 127.78,
+    "avgBedrooms": 1.66,
+    "avgAccommodates": 4.25
+  },
+  {
+    "neighborhood": "King",
+    "roomType": "Private room",
+    "countRoomType": 100,
+    "sumReviews": 5472,
+    "avgPrice": 60.92,
+    "avgBedrooms": 0.99,
+    "avgAccommodates": 2.16
+  },
+  {
+    "neighborhood": "King",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 9,
+    "avgPrice": 30,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "King",
+    "roomType": "Total",
+    "countRoomType": 278,
+    "sumReviews": 12657,
+    "avgPrice": 103.38,
+    "avgBedrooms": 1.42,
+    "avgAccommodates": 3.49
+  },
+  {
+    "neighborhood": "Lake Road",
+    "roomType": "Entire home/apt",
+    "countRoomType": 2,
+    "sumReviews": 57,
+    "avgPrice": 85.5,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 4.5
+  },
+  {
+    "neighborhood": "Lake Road",
+    "roomType": "Private room",
+    "countRoomType": 3,
+    "sumReviews": 64,
+    "avgPrice": 53.33,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.67
+  },
+  {
+    "neighborhood": "Lake Road",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 121,
+    "avgPrice": 66.2,
+    "avgBedrooms": 1.2,
+    "avgAccommodates": 2.8
+  },
+  {
+    "neighborhood": "Lents",
+    "roomType": "Entire home/apt",
+    "countRoomType": 5,
+    "sumReviews": 81,
+    "avgPrice": 79.8,
+    "avgBedrooms": 1.4,
+    "avgAccommodates": 2.6
+  },
+  {
+    "neighborhood": "Lents",
+    "roomType": "Private room",
+    "countRoomType": 9,
+    "sumReviews": 342,
+    "avgPrice": 56.44,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.56
+  },
+  {
+    "neighborhood": "Lents",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 18,
+    "avgPrice": 25,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Lents",
+    "roomType": "Total",
+    "countRoomType": 15,
+    "sumReviews": 441,
+    "avgPrice": 62.13,
+    "avgBedrooms": 1.13,
+    "avgAccommodates": 2.53
+  },
+  {
+    "neighborhood": "Lewelling",
+    "roomType": "Entire home/apt",
+    "countRoomType": 2,
+    "sumReviews": 36,
+    "avgPrice": 86,
+    "avgBedrooms": 2,
+    "avgAccommodates": 5
+  },
+  {
+    "neighborhood": "Lewelling",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 3,
+    "avgPrice": 45,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.5
+  },
+  {
+    "neighborhood": "Lewelling",
+    "roomType": "Total",
+    "countRoomType": 4,
+    "sumReviews": 39,
+    "avgPrice": 65.5,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Linnton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 87,
+    "avgPrice": 93.5,
+    "avgBedrooms": 0.75,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Linnton",
+    "roomType": "Total",
+    "countRoomType": 4,
+    "sumReviews": 87,
+    "avgPrice": 93.5,
+    "avgBedrooms": 0.75,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Linwood",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 11,
+    "avgPrice": 75,
+    "avgBedrooms": 0,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Linwood",
+    "roomType": "Total",
+    "countRoomType": 1,
+    "sumReviews": 11,
+    "avgPrice": 75,
+    "avgBedrooms": 0,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Lloyd",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 18,
+    "avgPrice": 109,
+    "avgBedrooms": 0,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Lloyd",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 1,
+    "avgPrice": 50,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Lloyd",
+    "roomType": "Total",
+    "countRoomType": 3,
+    "sumReviews": 19,
+    "avgPrice": 69.67,
+    "avgBedrooms": 0.67,
+    "avgAccommodates": 1.33
+  },
+  {
+    "neighborhood": "Madison South",
+    "roomType": "Entire home/apt",
+    "countRoomType": 9,
+    "sumReviews": 369,
+    "avgPrice": 111,
+    "avgBedrooms": 1.56,
+    "avgAccommodates": 4.22
+  },
+  {
+    "neighborhood": "Madison South",
+    "roomType": "Private room",
+    "countRoomType": 6,
+    "sumReviews": 190,
+    "avgPrice": 43.33,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.67
+  },
+  {
+    "neighborhood": "Madison South",
+    "roomType": "Total",
+    "countRoomType": 15,
+    "sumReviews": 559,
+    "avgPrice": 83.93,
+    "avgBedrooms": 1.33,
+    "avgAccommodates": 3.6
+  },
+  {
+    "neighborhood": "Maplewood-Ashcreek",
+    "roomType": "Entire home/apt",
+    "countRoomType": 32,
+    "sumReviews": 769,
+    "avgPrice": 141.38,
+    "avgBedrooms": 1.88,
+    "avgAccommodates": 4.5
+  },
+  {
+    "neighborhood": "Maplewood-Ashcreek",
+    "roomType": "Private room",
+    "countRoomType": 27,
+    "sumReviews": 683,
+    "avgPrice": 60.85,
+    "avgBedrooms": 1.04,
+    "avgAccommodates": 2.04
+  },
+  {
+    "neighborhood": "Maplewood-Ashcreek",
+    "roomType": "Total",
+    "countRoomType": 59,
+    "sumReviews": 1452,
+    "avgPrice": 104.53,
+    "avgBedrooms": 1.49,
+    "avgAccommodates": 3.37
+  },
+  {
+    "neighborhood": "Mill Park",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 3,
+    "avgPrice": 70,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Mill Park",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 49,
+    "avgPrice": 40,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Mill Park",
+    "roomType": "Total",
+    "countRoomType": 2,
+    "sumReviews": 52,
+    "avgPrice": 55,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Montavilla",
+    "roomType": "Entire home/apt",
+    "countRoomType": 41,
+    "sumReviews": 1088,
+    "avgPrice": 110.63,
+    "avgBedrooms": 1.9,
+    "avgAccommodates": 4.59
+  },
+  {
+    "neighborhood": "Montavilla",
+    "roomType": "Private room",
+    "countRoomType": 33,
+    "sumReviews": 1055,
+    "avgPrice": 54.79,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.27
+  },
+  {
+    "neighborhood": "Montavilla",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 9,
+    "avgPrice": 25,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Montavilla",
+    "roomType": "Total",
+    "countRoomType": 75,
+    "sumReviews": 2152,
+    "avgPrice": 84.92,
+    "avgBedrooms": 1.49,
+    "avgAccommodates": 3.52
+  },
+  {
+    "neighborhood": "Mount Scott",
+    "roomType": "Entire home/apt",
+    "countRoomType": 19,
+    "sumReviews": 366,
+    "avgPrice": 81.11,
+    "avgBedrooms": 1.37,
+    "avgAccommodates": 4.11
+  },
+  {
+    "neighborhood": "Mount Scott",
+    "roomType": "Private room",
+    "countRoomType": 6,
+    "sumReviews": 50,
+    "avgPrice": 42.83,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.67
+  },
+  {
+    "neighborhood": "Mount Scott",
+    "roomType": "Total",
+    "countRoomType": 25,
+    "sumReviews": 416,
+    "avgPrice": 71.92,
+    "avgBedrooms": 1.28,
+    "avgAccommodates": 3.52
+  },
+  {
+    "neighborhood": "Mount Tabor",
+    "roomType": "Entire home/apt",
+    "countRoomType": 66,
+    "sumReviews": 2179,
+    "avgPrice": 134.95,
+    "avgBedrooms": 1.77,
+    "avgAccommodates": 4.36
+  },
+  {
+    "neighborhood": "Mount Tabor",
+    "roomType": "Private room",
+    "countRoomType": 37,
+    "sumReviews": 2478,
+    "avgPrice": 59.92,
+    "avgBedrooms": 1.03,
+    "avgAccommodates": 2.35
+  },
+  {
+    "neighborhood": "Mount Tabor",
+    "roomType": "Total",
+    "countRoomType": 103,
+    "sumReviews": 4657,
+    "avgPrice": 108,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 3.64
+  },
+  {
+    "neighborhood": "Neighbors Southwest",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 90,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Neighbors Southwest",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 40,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Neighbors Southwest",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 1,
+    "avgPrice": 50,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Neighbors Southwest",
+    "roomType": "Total",
+    "countRoomType": 3,
+    "sumReviews": 1,
+    "avgPrice": 60,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Northwest",
+    "roomType": "Entire home/apt",
+    "countRoomType": 163,
+    "sumReviews": 6536,
+    "avgPrice": 144.36,
+    "avgBedrooms": 1.17,
+    "avgAccommodates": 3.53
+  },
+  {
+    "neighborhood": "Northwest",
+    "roomType": "Private room",
+    "countRoomType": 44,
+    "sumReviews": 2579,
+    "avgPrice": 71.93,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.07
+  },
+  {
+    "neighborhood": "Northwest",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 35,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Northwest",
+    "roomType": "Total",
+    "countRoomType": 208,
+    "sumReviews": 9115,
+    "avgPrice": 128.51,
+    "avgBedrooms": 1.13,
+    "avgAccommodates": 3.22
+  },
+  {
+    "neighborhood": "Old Town-Chinatown",
+    "roomType": "Entire home/apt",
+    "countRoomType": 10,
+    "sumReviews": 175,
+    "avgPrice": 101.6,
+    "avgBedrooms": 0.8,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Old Town-Chinatown",
+    "roomType": "Private room",
+    "countRoomType": 9,
+    "sumReviews": 838,
+    "avgPrice": 113.44,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Old Town-Chinatown",
+    "roomType": "Shared room",
+    "countRoomType": 24,
+    "sumReviews": 714,
+    "avgPrice": 42.42,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Old Town-Chinatown",
+    "roomType": "Total",
+    "countRoomType": 43,
+    "sumReviews": 1727,
+    "avgPrice": 71.05,
+    "avgBedrooms": 0.95,
+    "avgAccommodates": 1.67
+  },
+  {
+    "neighborhood": "Overlook",
+    "roomType": "Entire home/apt",
+    "countRoomType": 58,
+    "sumReviews": 2910,
+    "avgPrice": 127.93,
+    "avgBedrooms": 1.62,
+    "avgAccommodates": 4.41
+  },
+  {
+    "neighborhood": "Overlook",
+    "roomType": "Private room",
+    "countRoomType": 34,
+    "sumReviews": 1799,
+    "avgPrice": 59.97,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.88
+  },
+  {
+    "neighborhood": "Overlook",
+    "roomType": "Total",
+    "countRoomType": 92,
+    "sumReviews": 4709,
+    "avgPrice": 102.82,
+    "avgBedrooms": 1.39,
+    "avgAccommodates": 3.48
+  },
+  {
+    "neighborhood": "Parkrose",
+    "roomType": "Entire home/apt",
+    "countRoomType": 9,
+    "sumReviews": 230,
+    "avgPrice": 100.33,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": 5.11
+  },
+  {
+    "neighborhood": "Parkrose",
+    "roomType": "Private room",
+    "countRoomType": 13,
+    "sumReviews": 330,
+    "avgPrice": 84.54,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.15
+  },
+  {
+    "neighborhood": "Parkrose",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 1,
+    "avgPrice": 105,
+    "avgBedrooms": 1,
+    "avgAccommodates": 6
+  },
+  {
+    "neighborhood": "Parkrose",
+    "roomType": "Total",
+    "countRoomType": 23,
+    "sumReviews": 561,
+    "avgPrice": 91.61,
+    "avgBedrooms": 1.17,
+    "avgAccommodates": 3.48
+  },
+  {
+    "neighborhood": "Pearl District",
+    "roomType": "Entire home/apt",
+    "countRoomType": 26,
+    "sumReviews": 565,
+    "avgPrice": 166.04,
+    "avgBedrooms": 0.65,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Pearl District",
+    "roomType": "Private room",
+    "countRoomType": 6,
+    "sumReviews": 421,
+    "avgPrice": 127.17,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.83
+  },
+  {
+    "neighborhood": "Pearl District",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 54,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Pearl District",
+    "roomType": "Total",
+    "countRoomType": 33,
+    "sumReviews": 986,
+    "avgPrice": 155.58,
+    "avgBedrooms": 0.73,
+    "avgAccommodates": 2.76
+  },
+  {
+    "neighborhood": "Pleasant Valley",
+    "roomType": "Entire home/apt",
+    "countRoomType": 8,
+    "sumReviews": 201,
+    "avgPrice": 124.75,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 5.38
+  },
+  {
+    "neighborhood": "Pleasant Valley",
+    "roomType": "Private room",
+    "countRoomType": 13,
+    "sumReviews": 237,
+    "avgPrice": 72,
+    "avgBedrooms": 1.08,
+    "avgAccommodates": 2.38
+  },
+  {
+    "neighborhood": "Pleasant Valley",
+    "roomType": "Total",
+    "countRoomType": 21,
+    "sumReviews": 438,
+    "avgPrice": 92.1,
+    "avgBedrooms": 1.33,
+    "avgAccommodates": 3.52
+  },
+  {
+    "neighborhood": "Portsmith",
+    "roomType": "Entire home/apt",
+    "countRoomType": 16,
+    "sumReviews": 577,
+    "avgPrice": 103.94,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "Portsmith",
+    "roomType": "Private room",
+    "countRoomType": 14,
+    "sumReviews": 210,
+    "avgPrice": 52.29,
+    "avgBedrooms": 1.07,
+    "avgAccommodates": 2.29
+  },
+  {
+    "neighborhood": "Portsmith",
+    "roomType": "Total",
+    "countRoomType": 30,
+    "sumReviews": 787,
+    "avgPrice": 79.83,
+    "avgBedrooms": 1.27,
+    "avgAccommodates": 3.2
+  },
+  {
+    "neighborhood": "Powellhurst",
+    "roomType": "Entire home/apt",
+    "countRoomType": 3,
+    "sumReviews": 100,
+    "avgPrice": 86.33,
+    "avgBedrooms": 1,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "Powellhurst",
+    "roomType": "Private room",
+    "countRoomType": 13,
+    "sumReviews": 274,
+    "avgPrice": 43.69,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.23
+  },
+  {
+    "neighborhood": "Powellhurst",
+    "roomType": "Total",
+    "countRoomType": 16,
+    "sumReviews": 374,
+    "avgPrice": 51.69,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.38
+  },
+  {
+    "neighborhood": "Raleigh West",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 28,
+    "avgPrice": 95,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Raleigh West",
+    "roomType": "Total",
+    "countRoomType": 1,
+    "sumReviews": 28,
+    "avgPrice": 95,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Reed",
+    "roomType": "Entire home/apt",
+    "countRoomType": 13,
+    "sumReviews": 164,
+    "avgPrice": 117.85,
+    "avgBedrooms": 1.38,
+    "avgAccommodates": 3.38
+  },
+  {
+    "neighborhood": "Reed",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 91,
+    "avgPrice": 78.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.5
+  },
+  {
+    "neighborhood": "Reed",
+    "roomType": "Total",
+    "countRoomType": 15,
+    "sumReviews": 255,
+    "avgPrice": 112.6,
+    "avgBedrooms": 1.33,
+    "avgAccommodates": 3.4
+  },
+  {
+    "neighborhood": "Richmond",
+    "roomType": "Entire home/apt",
+    "countRoomType": 206,
+    "sumReviews": 8812,
+    "avgPrice": 128.38,
+    "avgBedrooms": 1.52,
+    "avgAccommodates": 4.08
+  },
+  {
+    "neighborhood": "Richmond",
+    "roomType": "Private room",
+    "countRoomType": 109,
+    "sumReviews": 4825,
+    "avgPrice": 60.22,
+    "avgBedrooms": 1.03,
+    "avgAccommodates": 2.2
+  },
+  {
+    "neighborhood": "Richmond",
+    "roomType": "Shared room",
+    "countRoomType": 6,
+    "sumReviews": 154,
+    "avgPrice": 65,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Richmond",
+    "roomType": "Total",
+    "countRoomType": 321,
+    "sumReviews": 13791,
+    "avgPrice": 104.05,
+    "avgBedrooms": 1.34,
+    "avgAccommodates": 3.4
+  },
+  {
+    "neighborhood": "Roseway",
+    "roomType": "Entire home/apt",
+    "countRoomType": 67,
+    "sumReviews": 2734,
+    "avgPrice": 119,
+    "avgBedrooms": 1.51,
+    "avgAccommodates": 3.88
+  },
+  {
+    "neighborhood": "Roseway",
+    "roomType": "Private room",
+    "countRoomType": 50,
+    "sumReviews": 1680,
+    "avgPrice": 59.02,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.08
+  },
+  {
+    "neighborhood": "Roseway",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 35,
+    "avgPrice": 39,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Roseway",
+    "roomType": "Total",
+    "countRoomType": 118,
+    "sumReviews": 4449,
+    "avgPrice": 92.91,
+    "avgBedrooms": 1.29,
+    "avgAccommodates": 3.1
+  },
+  {
+    "neighborhood": "Saintjohns",
+    "roomType": "Entire home/apt",
+    "countRoomType": 3,
+    "sumReviews": 172,
+    "avgPrice": 71.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.33
+  },
+  {
+    "neighborhood": "Saintjohns",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 52,
+    "avgPrice": 47.63,
+    "avgBedrooms": 1.13,
+    "avgAccommodates": 2.5
+  },
+  {
+    "neighborhood": "Saintjohns",
+    "roomType": "Total",
+    "countRoomType": 11,
+    "sumReviews": 224,
+    "avgPrice": 54.18,
+    "avgBedrooms": 1.09,
+    "avgAccommodates": 2.73
+  },
+  {
+    "neighborhood": "Sellwood-Moreland",
+    "roomType": "Entire home/apt",
+    "countRoomType": 52,
+    "sumReviews": 2129,
+    "avgPrice": 132.29,
+    "avgBedrooms": 1.63,
+    "avgAccommodates": 4.42
+  },
+  {
+    "neighborhood": "Sellwood-Moreland",
+    "roomType": "Private room",
+    "countRoomType": 31,
+    "sumReviews": 834,
+    "avgPrice": 54.48,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.32
+  },
+  {
+    "neighborhood": "Sellwood-Moreland",
+    "roomType": "Total",
+    "countRoomType": 83,
+    "sumReviews": 2963,
+    "avgPrice": 103.23,
+    "avgBedrooms": 1.4,
+    "avgAccommodates": 3.64
+  },
+  {
+    "neighborhood": "Sexton Mountain",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 200,
+    "avgBedrooms": 3,
+    "avgAccommodates": 6
+  },
+  {
+    "neighborhood": "Sexton Mountain",
+    "roomType": "Private room",
+    "countRoomType": 4,
+    "sumReviews": 71,
+    "avgPrice": 50.75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Sexton Mountain",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 71,
+    "avgPrice": 80.6,
+    "avgBedrooms": 1.4,
+    "avgAccommodates": 3.8
+  },
+  {
+    "neighborhood": "South Beaverton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 1,
+    "sumReviews": 20,
+    "avgPrice": 60,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "South Beaverton",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 0,
+    "avgPrice": 47.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.5
+  },
+  {
+    "neighborhood": "South Beaverton",
+    "roomType": "Total",
+    "countRoomType": 3,
+    "sumReviews": 20,
+    "avgPrice": 51.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1.67
+  },
+  {
+    "neighborhood": "South Tabor",
+    "roomType": "Entire home/apt",
+    "countRoomType": 34,
+    "sumReviews": 1095,
+    "avgPrice": 102.06,
+    "avgBedrooms": 1.38,
+    "avgAccommodates": 3.82
+  },
+  {
+    "neighborhood": "South Tabor",
+    "roomType": "Private room",
+    "countRoomType": 26,
+    "sumReviews": 760,
+    "avgPrice": 67.04,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.35
+  },
+  {
+    "neighborhood": "South Tabor",
+    "roomType": "Total",
+    "countRoomType": 60,
+    "sumReviews": 1855,
+    "avgPrice": 86.88,
+    "avgBedrooms": 1.22,
+    "avgAccommodates": 3.18
+  },
+  {
+    "neighborhood": "Southwest Hills",
+    "roomType": "Entire home/apt",
+    "countRoomType": 20,
+    "sumReviews": 774,
+    "avgPrice": 175.8,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 3.95
+  },
+  {
+    "neighborhood": "Southwest Hills",
+    "roomType": "Private room",
+    "countRoomType": 18,
+    "sumReviews": 1248,
+    "avgPrice": 77.61,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.22
+  },
+  {
+    "neighborhood": "Southwest Hills",
+    "roomType": "Total",
+    "countRoomType": 38,
+    "sumReviews": 2022,
+    "avgPrice": 129.29,
+    "avgBedrooms": 1.39,
+    "avgAccommodates": 3.13
+  },
+  {
+    "neighborhood": "Sunderland",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Sunderland",
+    "roomType": "Total",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 75,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Triple Creek",
+    "roomType": "Entire home/apt",
+    "countRoomType": 2,
+    "sumReviews": 70,
+    "avgPrice": 87.5,
+    "avgBedrooms": 2.5,
+    "avgAccommodates": 5
+  },
+  {
+    "neighborhood": "Triple Creek",
+    "roomType": "Private room",
+    "countRoomType": 3,
+    "sumReviews": 44,
+    "avgPrice": 43,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Triple Creek",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 114,
+    "avgPrice": 60.8,
+    "avgBedrooms": 1.6,
+    "avgAccommodates": 3.2
+  },
+  {
+    "neighborhood": "University Park",
+    "roomType": "Entire home/apt",
+    "countRoomType": 8,
+    "sumReviews": 257,
+    "avgPrice": 104,
+    "avgBedrooms": 1.75,
+    "avgAccommodates": 4.25
+  },
+  {
+    "neighborhood": "University Park",
+    "roomType": "Private room",
+    "countRoomType": 8,
+    "sumReviews": 214,
+    "avgPrice": 49.38,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.25
+  },
+  {
+    "neighborhood": "University Park",
+    "roomType": "Total",
+    "countRoomType": 16,
+    "sumReviews": 471,
+    "avgPrice": 76.69,
+    "avgBedrooms": 1.38,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Vose",
+    "roomType": "Entire home/apt",
+    "countRoomType": 7,
+    "sumReviews": 16,
+    "avgPrice": 232.71,
+    "avgBedrooms": 3,
+    "avgAccommodates": 4.86
+  },
+  {
+    "neighborhood": "Vose",
+    "roomType": "Private room",
+    "countRoomType": 5,
+    "sumReviews": 148,
+    "avgPrice": 61.2,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.4
+  },
+  {
+    "neighborhood": "Vose",
+    "roomType": "Total",
+    "countRoomType": 12,
+    "sumReviews": 164,
+    "avgPrice": 161.25,
+    "avgBedrooms": 2.17,
+    "avgAccommodates": 3.83
+  },
+  {
+    "neighborhood": "West Beaverton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 3,
+    "sumReviews": 46,
+    "avgPrice": 176.67,
+    "avgBedrooms": 2.67,
+    "avgAccommodates": 8
+  },
+  {
+    "neighborhood": "West Beaverton",
+    "roomType": "Private room",
+    "countRoomType": 2,
+    "sumReviews": 5,
+    "avgPrice": 37.5,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.5
+  },
+  {
+    "neighborhood": "West Beaverton",
+    "roomType": "Shared room",
+    "countRoomType": 1,
+    "sumReviews": 2,
+    "avgPrice": 60,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "West Beaverton",
+    "roomType": "Total",
+    "countRoomType": 6,
+    "sumReviews": 53,
+    "avgPrice": 110.83,
+    "avgBedrooms": 1.83,
+    "avgAccommodates": 5.17
+  },
+  {
+    "neighborhood": "West Slope",
+    "roomType": "Entire home/apt",
+    "countRoomType": 5,
+    "sumReviews": 163,
+    "avgPrice": 103.2,
+    "avgBedrooms": 1.2,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "West Slope",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 163,
+    "avgPrice": 103.2,
+    "avgBedrooms": 1.2,
+    "avgAccommodates": 4
+  },
+  {
+    "neighborhood": "Wilkes",
+    "roomType": "Entire home/apt",
+    "countRoomType": 7,
+    "sumReviews": 546,
+    "avgPrice": 103,
+    "avgBedrooms": 1.57,
+    "avgAccommodates": 4.57
+  },
+  {
+    "neighborhood": "Wilkes",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 99,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Wilkes",
+    "roomType": "Total",
+    "countRoomType": 8,
+    "sumReviews": 546,
+    "avgPrice": 102.5,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 4.25
+  },
+  {
+    "neighborhood": "Woodlawn",
+    "roomType": "Entire home/apt",
+    "countRoomType": 102,
+    "sumReviews": 4566,
+    "avgPrice": 118.8,
+    "avgBedrooms": 1.64,
+    "avgAccommodates": 4.1
+  },
+  {
+    "neighborhood": "Woodlawn",
+    "roomType": "Private room",
+    "countRoomType": 46,
+    "sumReviews": 1604,
+    "avgPrice": 55.39,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2.02
+  },
+  {
+    "neighborhood": "Woodlawn",
+    "roomType": "Total",
+    "countRoomType": 148,
+    "sumReviews": 6170,
+    "avgPrice": 99.09,
+    "avgBedrooms": 1.44,
+    "avgAccommodates": 3.45
+  },
+  {
+    "neighborhood": "Woodstock",
+    "roomType": "Entire home/apt",
+    "countRoomType": 35,
+    "sumReviews": 997,
+    "avgPrice": 137.57,
+    "avgBedrooms": 1.89,
+    "avgAccommodates": 4.74
+  },
+  {
+    "neighborhood": "Woodstock",
+    "roomType": "Private room",
+    "countRoomType": 28,
+    "sumReviews": 1203,
+    "avgPrice": 57.75,
+    "avgBedrooms": 1.04,
+    "avgAccommodates": 2.07
+  },
+  {
+    "neighborhood": "Woodstock",
+    "roomType": "Total",
+    "countRoomType": 63,
+    "sumReviews": 2200,
+    "avgPrice": 102.1,
+    "avgBedrooms": 1.51,
+    "avgAccommodates": 3.56
+  }
+]
