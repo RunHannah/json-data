@@ -1,0 +1,244 @@
+neighborhood,roomType,countRoomType,sumReviews,avgPrice,avgBedrooms,AvgAccomodates
+Alameda,Entire home/apt,36,1368,177.56,1.72,4.42
+Alameda,Private room,24,898,76.92,1,2.13
+Alameda,Total,60,2266,137.3,1.43,3.5
+Arbor Lodge,Entire home/apt,34,876,116.85,1.35,3.91
+Arbor Lodge,Private room,31,964,68.74,1,2.58
+Arbor Lodge,Total,65,1840,93.91,1.18,3.28
+Ardenwald,Entire home/apt,2,45,122.5,1,3.5
+Ardenwald,Private room,3,7,73,1,3
+Ardenwald,Total,5,52,92.8,1,3.2
+Argay,Entire home/apt,5,76,132,2.4,5.6
+Argay,Private room,5,87,66.6,1,2.8
+Argay,Total,10,163,99.3,1.7,4.2
+Boise,Entire home/apt,112,5529,147.06,1.75,4.52
+Boise,Private room,40,1955,67.83,1,2.4
+Boise,Shared room,8,299,36.88,1,2.5
+Boise,Total,160,7783,121.74,1.53,3.89
+Brentwood-Darlington,Entire home/apt,7,275,118,1.86,5.14
+Brentwood-Darlington,Private room,9,188,63.78,1,2.33
+Brentwood-Darlington,Shared room,1,1,55,1,1
+Brentwood-Darlington,Total,17,464,85.59,1.35,3.41
+Bridgeton,Entire home/apt,8,51,194.5,1.63,3.75
+Bridgeton,Private room,1,9,75,1,2
+Bridgeton,Total,9,60,181.22,1.56,3.56
+Bridlemile,Entire home/apt,7,315,104.14,0.86,3
+Bridlemile,Private room,4,41,75.25,1,2
+Bridlemile,Total,11,356,93.64,0.91,2.64
+Brooklyn,Entire home/apt,24,921,123.92,1.75,4.33
+Brooklyn,Private room,15,550,61.93,1,2
+Brooklyn,Shared room,1,0,30,1,1
+Brooklyn,Total,40,1471,98.33,1.45,3.38
+Buckman,Entire home/apt,97,3926,154.74,1.26,4.05
+Buckman,Private room,33,1189,78.36,1,2.06
+Buckman,Shared room,6,489,41.5,1,1.17
+Buckman,Total,136,5604,131.21,1.18,3.44
+Cathedral Park,Entire home/apt,31,629,118.55,1.71,4.39
+Cathedral Park,Private room,19,656,52.26,1,2.26
+Cathedral Park,Total,50,1285,93.36,1.44,3.58
+Centennial,Entire home/apt,2,15,68,0.5,2.5
+Centennial,Private room,5,26,48.6,1,2.4
+Centennial,Total,7,41,54.14,0.86,2.43
+Center,Entire home/apt,41,983,147.27,1.73,4.37
+Center,Private room,22,542,70.05,1,2.09
+Center,Total,63,1525,120.3,1.48,3.57
+Central Beaverton,Entire home/apt,7,181,124.86,2,4
+Central Beaverton,Total,7,181,124.86,2,4
+Concordia,Entire home/apt,113,4198,143.92,1.57,4.17
+Concordia,Private room,56,2281,73.5,1,2.27
+Concordia,Total,169,6479,120.59,1.38,3.54
+Corbett-Terwilliger-Lair Hill,Entire home/apt,28,321,153.11,1.61,3.89
+Corbett-Terwilliger-Lair Hill,Private room,23,744,73.09,1,1.91
+Corbett-Terwilliger-Lair Hill,Total,51,1065,117.02,1.33,3
+Creston-Kenilworth,Entire home/apt,18,496,140.72,1.78,4.33
+Creston-Kenilworth,Private room,23,1079,60.65,1,2.17
+Creston-Kenilworth,Total,41,1575,95.8,1.34,3.12
+Cully,Entire home/apt,65,2287,125.4,1.51,3.91
+Cully,Private room,41,1991,59.34,1,2.07
+Cully,Total,106,4278,99.85,1.31,3.2
+Denny Whitford,Entire home/apt,1,6,130,2,6
+Denny Whitford,Total,1,6,130,2,6
+Downtown,Entire home/apt,43,1338,182.4,1.14,4.16
+Downtown,Private room,6,41,74.33,1,2.17
+Downtown,Shared room,4,38,36,1,1.5
+Downtown,Total,53,1417,159.11,1.11,3.74
+Eastmoreland,Entire home/apt,17,424,127.24,1.53,3.88
+Eastmoreland,Private room,8,376,72.5,1,2.25
+Eastmoreland,Total,25,800,109.72,1.36,3.36
+Eliot,Entire home/apt,37,1939,137.03,1.62,4.27
+Eliot,Private room,13,804,85,1,2.08
+Eliot,Total,50,2743,123.5,1.46,3.7
+Far Southwest,Entire home/apt,25,453,130.64,1.6,4.44
+Far Southwest,Private room,15,413,63.8,1,2.2
+Far Southwest,Shared room,1,44,45,1,3
+Far Southwest,Total,41,910,104.1,1.37,3.59
+Five Oaks,Private room,6,38,45.5,1,2.17
+Five Oaks,Total,6,38,45.5,1,2.17
+Forest Park,Entire home/apt,24,556,261,2.58,6.08
+Forest Park,Private room,11,386,103.36,1,2.45
+Forest Park,Total,35,942,211.46,2.09,4.94
+Foster Powell,Entire home/apt,20,521,101.4,1.45,3.9
+Foster Powell,Private room,9,414,52,1,2
+Foster Powell,Total,29,935,86.07,1.31,3.31
+Greenway,Entire home/apt,2,16,105.5,2,5.5
+Greenway,Private room,3,15,50.67,1,1.67
+Greenway,Total,5,31,72.6,1.4,3.2
+Hayhurst,Entire home/apt,9,241,114.44,1.56,4
+Hayhurst,Private room,8,94,66,1,2
+Hayhurst,Total,17,335,91.65,1.29,3.06
+Hazelwood,Entire home/apt,3,250,154.67,1.33,4.33
+Hazelwood,Private room,8,110,51.63,1,1.88
+Hazelwood,Total,11,360,79.73,1.09,2.55
+Hector Campbell,Private room,1,64,42,1,2
+Hector Campbell,Total,1,64,42,1,2
+Highlands,Entire home/apt,4,56,122.25,2,4
+Highlands,Private room,4,124,49.5,1,1.5
+Highlands,Total,8,180,85.88,1.5,2.75
+Hillsdale,Entire home/apt,20,590,149.75,1.65,5.05
+Hillsdale,Private room,15,563,79.33,1,2.67
+Hillsdale,Total,35,1153,119.57,1.37,4.03
+Homestead,Entire home/apt,16,477,139.56,1.19,3.44
+Homestead,Private room,11,384,75,1,2.27
+Homestead,Shared room,1,3,50,1,1
+Homestead,Total,28,864,111,1.11,2.89
+Hosford,Entire home/apt,76,3449,152.03,1.57,4.11
+Hosford,Private room,32,1787,74.66,1,2.22
+Hosford,Total,108,5236,129.1,1.4,3.55
+Irvington,Entire home/apt,50,2188,135.96,1.42,3.8
+Irvington,Private room,45,1887,90.07,1,2.33
+Irvington,Shared room,4,193,42.25,1,1.75
+Irvington,Total,99,4268,111.31,1.21,3.05
+Kenton,Entire home/apt,28,942,106.61,1.5,4.04
+Kenton,Private room,26,1051,57.19,1,2.19
+Kenton,Total,54,1993,82.81,1.26,3.15
+Kerns,Entire home/apt,59,2143,133.03,1,3.61
+Kerns,Private room,13,494,71.15,1,2.15
+Kerns,Total,72,2637,121.86,1,3.35
+King,Entire home/apt,169,5895,148.85,1.7,4.35
+King,Private room,112,5176,65.63,1,2.12
+King,Shared room,12,493,28.5,1,4.17
+King,Total,293,11564,112.11,1.41,3.49
+Lake Road,Entire home/apt,2,39,87.5,1.5,4.5
+Lake Road,Private room,3,34,55,1,1.67
+Lake Road,Shared room,1,3,42,1,2
+Lake Road,Total,6,76,63.67,1.17,2.67
+Lents,Entire home/apt,6,55,92.33,2.17,3.67
+Lents,Private room,6,203,59.17,1,2.17
+Lents,Shared room,1,14,25,1,2
+Lents,Total,13,272,71.85,1.54,2.85
+Lewelling,Entire home/apt,3,13,103,2.33,6
+Lewelling,Private room,1,19,45,1,2
+Lewelling,Total,4,32,88.5,2,5
+Linnton,Entire home/apt,2,26,152.5,2,5
+Linnton,Private room,2,63,79,1,1.5
+Linnton,Total,4,89,115.75,1.5,3.25
+Linwood,Private room,1,1,27,1,2
+Linwood,Total,1,1,27,1,2
+Lloyd,Entire home/apt,9,126,165.78,1.22,4.67
+Lloyd,Private room,1,0,65,1,1
+Lloyd,Total,10,126,155.7,1.2,4.3
+Madison South,Entire home/apt,12,440,119.58,1.75,4.42
+Madison South,Private room,4,106,72.25,1,3.25
+Madison South,Total,16,546,107.75,1.56,4.13
+Maplewood-Ashcreek,Entire home/apt,31,719,143.06,1.97,4.48
+Maplewood-Ashcreek,Private room,25,610,65.68,1,2.24
+Maplewood-Ashcreek,Total,56,1329,108.52,1.54,3.48
+Mill Park,Entire home/apt,1,0,60,1,2
+Mill Park,Private room,1,5,45,1,2
+Mill Park,Shared room,1,41,40,1,2
+Mill Park,Total,3,46,48.33,1,2
+Montavilla,Entire home/apt,37,839,123.54,1.76,4.19
+Montavilla,Private room,40,986,59.63,1,2.35
+Montavilla,Total,77,1825,90.34,1.36,3.23
+Mount Scott,Entire home/apt,9,186,86.78,1.44,4.33
+Mount Scott,Private room,6,97,44.67,1,1.67
+Mount Scott,Total,15,283,69.93,1.27,3.27
+Mount Tabor,Entire home/apt,66,1903,155.74,1.79,4.68
+Mount Tabor,Private room,39,1768,67.97,1,2.26
+Mount Tabor,Total,105,3671,123.14,1.5,3.78
+Neighbors Southwest,Shared room,1,1,50,1,1
+Neighbors Southwest,Total,1,1,50,1,1
+Northwest,Entire home/apt,174,6042,167.43,1.15,3.7
+Northwest,Private room,36,2099,88.31,1,2.08
+Northwest,Shared room,1,0,35,1,3
+Northwest,Total,211,8141,153.3,1.12,3.42
+Old Town-Chinatown,Entire home/apt,7,320,136.14,1.14,3.71
+Old Town-Chinatown,Private room,11,464,110.09,1,2
+Old Town-Chinatown,Shared room,25,359,41.16,1,1
+Old Town-Chinatown,Total,43,1143,74.26,1.02,1.7
+Overlook,Entire home/apt,60,2710,146.3,1.57,4.27
+Overlook,Private room,42,1766,61.07,1,2.05
+Overlook,Shared room,1,70,30,1,1
+Overlook,Total,103,4546,110.42,1.33,3.33
+Parkrose,Entire home/apt,4,143,155.75,2,6.5
+Parkrose,Private room,8,140,64.5,1,2.25
+Parkrose,Shared room,1,1,50,1,2
+Parkrose,Total,13,284,91.46,1.31,3.54
+Pearl District,Entire home/apt,35,583,185.8,0.94,3.34
+Pearl District,Private room,5,313,114.8,1,2
+Pearl District,Total,40,896,176.93,0.95,3.18
+Pleasant Valley,Entire home/apt,6,155,116.33,1.5,4.17
+Pleasant Valley,Private room,6,132,63.17,1,3.17
+Pleasant Valley,Shared room,1,0,6500,1,1
+Pleasant Valley,Total,13,287,582.85,1.23,3.46
+Portsmith,Entire home/apt,17,386,109.59,1.65,4.12
+Portsmith,Private room,12,221,56.75,1,2.25
+Portsmith,Total,29,607,87.72,1.38,3.34
+Powellhurst,Entire home/apt,3,27,101.67,0.67,4
+Powellhurst,Private room,20,429,40.4,1,3.15
+Powellhurst,Total,23,456,48.39,0.96,3.26
+Raleigh West,Entire home/apt,1,15,95,1,2
+Raleigh West,Total,1,15,95,1,2
+Reed,Entire home/apt,11,160,150,1.73,4.45
+Reed,Private room,10,511,62.1,1,3
+Reed,Shared room,2,9,34.5,1,1.5
+Reed,Total,23,680,101.74,1.35,3.57
+Richmond,Entire home/apt,194,6433,141.24,1.65,4.12
+Richmond,Private room,107,3944,72.92,1,2.11
+Richmond,Shared room,5,45,68.2,1,1.8
+Richmond,Total,306,10422,116.16,1.41,3.38
+Roseway,Entire home/apt,64,1944,133.67,1.59,3.88
+Roseway,Private room,49,1477,62.9,1,2.12
+Roseway,Shared room,1,60,38,1,2
+Roseway,Total,114,3481,102.41,1.33,3.11
+Saintjohns,Entire home/apt,4,138,78.25,1.25,3.75
+Saintjohns,Private room,5,26,43,1,2.4
+Saintjohns,Total,9,164,58.67,1.11,3
+Sellwood-Moreland,Entire home/apt,46,1695,142.26,1.7,4.46
+Sellwood-Moreland,Private room,27,619,66.37,1,2.41
+Sellwood-Moreland,Total,73,2314,114.19,1.44,3.7
+Sexton Mountain,Entire home/apt,2,27,129.5,3,7
+Sexton Mountain,Private room,4,30,55,1,1.75
+Sexton Mountain,Total,6,57,79.83,1.67,3.5
+South Beaverton,Private room,1,2,60,1,2
+South Beaverton,Total,1,2,60,1,2
+South Tabor,Entire home/apt,39,967,124.15,1.67,4.26
+South Tabor,Private room,32,923,73.06,1,2.06
+South Tabor,Shared room,1,15,34,1,2
+South Tabor,Total,72,1905,100.19,1.36,3.25
+Southwest Hills,Entire home/apt,19,504,198.47,1.63,3.95
+Southwest Hills,Private room,15,877,91.6,1,2.2
+Southwest Hills,Total,34,1381,151.32,1.35,3.18
+Sunderland,Private room,1,0,100,1,2
+Sunderland,Total,1,0,100,1,2
+Triple Creek,Private room,7,109,48.57,1,1.86
+Triple Creek,Total,7,109,48.57,1,1.86
+University Park,Entire home/apt,8,190,152.38,2,5.25
+University Park,Private room,8,151,49.13,1,2
+University Park,Total,16,341,100.75,1.5,3.63
+Vose,Entire home/apt,3,9,145.67,3,5.67
+Vose,Private room,5,113,50.8,1,2.2
+Vose,Total,8,122,86.38,1.75,3.5
+West Beaverton,Entire home/apt,5,59,178.8,2.8,7
+West Beaverton,Private room,1,4,30,1,1
+West Beaverton,Total,6,63,154,2.5,6
+West Slope,Entire home/apt,4,162,102.25,1,2.5
+West Slope,Total,4,162,102.25,1,2.5
+Wilkes,Entire home/apt,7,342,97.86,1.71,3.71
+Wilkes,Total,7,342,97.86,1.71,3.71
+Woodlawn,Entire home/apt,99,3617,126.82,1.74,4.18
+Woodlawn,Private room,55,1698,57.24,1,1.96
+Woodlawn,Total,154,5315,101.97,1.47,3.39
+Woodstock,Entire home/apt,29,781,123.97,1.79,4.38
+Woodstock,Private room,26,853,62.08,1,2.15
+Woodstock,Total,55,1634,94.71,1.42,3.33
