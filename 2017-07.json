@@ -1,207 +1,212 @@
-"2017-07":
+{
+  "2017-07": [
   {
-    "Alameda": {
-      "Entire home/apt":
-      {
-        "countRoomType": 34,
-        "sumReviews": 1756,
-        "avgPrice": 182.79,
-        "avgBedrooms": 2.09,
-        "avgAccommodates": 4.71
-      },
-      "Private room":
-      {
-        "countRoomType": 22,
-        "sumReviews": 1250,
-        "avgPrice": 73.73,
-        "avgBedrooms": 1.05,
-        "avgAccommodates": 2.23
-      },
-      "Total":
-      {
-        "countRoomType": 56,
-        "sumReviews": 3006,
-        "avgPrice": 139.95,
-        "avgBedrooms": 1.68,
-        "avgAccommodates": 3.73
-    },
-    "Arbor Lodge": {
-      "Entire home/apt":
-      {
-        "countRoomType": 46,
-        "sumReviews": 1321,
-        "avgPrice": 120.35,
-        "avgBedrooms": 1.46,
-        "avgAccommodates": 4.13
-      },
-      "Private room":
-      {
-        "countRoomType": 22,
-        "sumReviews": 1009,
-        "avgPrice": 64.68,
-        "avgBedrooms": 1.05,
-        "avgAccommodates": 2.09
-
-      },
-      "roomType": "Total",
-      "countRoomType": 68,
-      "sumReviews": 2330,
-      "avgPrice": 102.34,
-      "avgBedrooms": 1.32,
-      "avgAccommodates": 3.47
-    }
+    "neighborhood": "Alameda",
+    "roomType": "Entire home/apt",
+    "countRoomType": 34,
+    "sumReviews": 1756,
+    "avgPrice": 182.79,
+    "avgBedrooms": 2.09,
+    "avgAccommodates": 4.71
   },
-  "Ardenwald": {
-    "Entire home/apt":
-    {
-      "countRoomType": 4,
-      "sumReviews": 122,
-      "avgPrice": 122.25,
-      "avgBedrooms": 2,
-      "avgAccommodates": 5.75
-    },
-    "Private room":
-    {
-      "countRoomType": 1,
-      "sumReviews": 5,
-      "avgPrice": 60,
-      "avgBedrooms": 1,
-      "avgAccommodates": 3
-    },
-    "Total":
-    {
-      "countRoomType": 5,
-      "sumReviews": 127,
-      "avgPrice": 109.8,
-      "avgBedrooms": 1.8,
-      "avgAccommodates": 5.2
-    }
+  {
+    "neighborhood": "Alameda",
+    "roomType": "Private room",
+    "countRoomType": 22,
+    "sumReviews": 1250,
+    "avgPrice": 73.73,
+    "avgBedrooms": 1.05,
+    "avgAccommodates": 2.23
   },
-  "Argay": {
-    "Entire home/apt":
-    {
-      "countRoomType": 4,
-      "sumReviews": 22,
-      "avgPrice": 75,
-      "avgBedrooms": 1.5,
-      "avgAccommodates": 3.25
-    },
-    "Private room":
-    {
-      "countRoomType": 7,
-      "sumReviews": 160,
-      "avgPrice": 62.29,
-      "avgBedrooms": 1,
-      "avgAccommodates": 2
-    },
-    "Total":
-    {
+  {
+    "neighborhood": "Alameda",
+    "roomType": "Total",
+    "countRoomType": 56,
+    "sumReviews": 3006,
+    "avgPrice": 139.95,
+    "avgBedrooms": 1.68,
+    "avgAccommodates": 3.73
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Entire home/apt",
+    "countRoomType": 46,
+    "sumReviews": 1321,
+    "avgPrice": 120.35,
+    "avgBedrooms": 1.46,
+    "avgAccommodates": 4.13
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Private room",
+    "countRoomType": 22,
+    "sumReviews": 1009,
+    "avgPrice": 64.68,
+    "avgBedrooms": 1.05,
+    "avgAccommodates": 2.09
+  },
+  {
+    "neighborhood": "Arbor Lodge",
+    "roomType": "Total",
+    "countRoomType": 68,
+    "sumReviews": 2330,
+    "avgPrice": 102.34,
+    "avgBedrooms": 1.32,
+    "avgAccommodates": 3.47
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 122,
+    "avgPrice": 122.25,
+    "avgBedrooms": 2,
+    "avgAccommodates": 5.75
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 5,
+    "avgPrice": 60,
+    "avgBedrooms": 1,
+    "avgAccommodates": 3
+  },
+  {
+    "neighborhood": "Ardenwald",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 127,
+    "avgPrice": 109.8,
+    "avgBedrooms": 1.8,
+    "avgAccommodates": 5.2
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 22,
+    "avgPrice": 75,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 3.25
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Private room",
+    "countRoomType": 7,
+    "sumReviews": 160,
+    "avgPrice": 62.29,
+    "avgBedrooms": 1,
+    "avgAccommodates": 2
+  },
+  {
+    "neighborhood": "Argay",
+    "roomType": "Total",
     "countRoomType": 11,
     "sumReviews": 182,
     "avgPrice": 66.91,
     "avgBedrooms": 1.18,
     "avgAccommodates": 2.45
-    }
   },
-  "Boise": {
-    "Entire home/apt":
-    {
-      "countRoomType": 117,
-      "sumReviews": 7463,
-      "avgPrice": 129.44,
-      "avgBedrooms": 1.62,
-      "avgAccommodates": 4.17
-
-    },
-    "Private room":
-    {
-      "countRoomType": 47,
-      "sumReviews": 2568,
-      "avgPrice": 65.04,
-      "avgBedrooms": 1.02,
-      "avgAccommodates": 2.3
-    },
-    "Shared room":
-    {
-      "countRoomType": 6,
-      "sumReviews": 466,
-      "avgPrice": 34.67,
-      "avgBedrooms": 1,
-      "avgAccommodates": 1
-    },
-    "Total":
-    {
-      "countRoomType": 170,
-      "sumReviews": 10497,
-      "avgPrice": 108.29,
-      "avgBedrooms": 1.43,
-      "avgAccommodates": 3.54
-    }
+  {
+    "neighborhood": "Boise",
+    "roomType": "Entire home/apt",
+    "countRoomType": 117,
+    "sumReviews": 7463,
+    "avgPrice": 129.44,
+    "avgBedrooms": 1.62,
+    "avgAccommodates": 4.17
   },
-  "Brentwood-Darlington": {
-    "Entire home/apt":
-    {
-      "countRoomType": 15,
-      "sumReviews": 611,
-      "avgPrice": 96.6,
-      "avgBedrooms": 1.8,
-      "avgAccommodates": 4.4
-    },
-    "Private room":
-    {
-      "countRoomType": 12,
-      "sumReviews": 214,
-      "avgPrice": 64.92,
-      "avgBedrooms": 1.08,
-      "avgAccommodates": 2.08
-    },
-    "Shared room":
-    {
-      "countRoomType": 2,
-      "sumReviews": 8,
-      "avgPrice": 55,
-      "avgBedrooms": 1,
-      "avgAccommodates": 1
-    },
-    "Total":
-    {
-      "countRoomType": 29,
-      "sumReviews": 833,
-      "avgPrice": 80.62,
-      "avgBedrooms": 1.45,
-      "avgAccommodates": 3.21
-    }
+  {
+    "neighborhood": "Boise",
+    "roomType": "Private room",
+    "countRoomType": 47,
+    "sumReviews": 2568,
+    "avgPrice": 65.04,
+    "avgBedrooms": 1.02,
+    "avgAccommodates": 2.3
   },
-  "Bridgeton": {
-    "Entire home/apt": {
-      "countRoomType": 4,
-      "sumReviews": 51,
-      "avgPrice": 207.5,
-      "avgBedrooms": 1.5,
-      "avgAccommodates": 4.25
-    },
-    "Private room":
-      {
-        "countRoomType": 1,
-        "sumReviews": 0,
-        "avgPrice": 88,
-        "avgBedrooms": 0,
-        "avgAccommodates": 1
-      },
-    "Total": {
-      "countRoomType": 5,
-      "sumReviews": 51,
-      "avgPrice": 183.6,
-      "avgBedrooms": 1.2,
-      "avgAccommodates": 3.6
-    }
+  {
+    "neighborhood": "Boise",
+    "roomType": "Shared room",
+    "countRoomType": 6,
+    "sumReviews": 466,
+    "avgPrice": 34.67,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
   },
-
-  STOPPED HERE
-
-
-
-}
+  {
+    "neighborhood": "Boise",
+    "roomType": "Total",
+    "countRoomType": 170,
+    "sumReviews": 10497,
+    "avgPrice": 108.29,
+    "avgBedrooms": 1.43,
+    "avgAccommodates": 3.54
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Entire home/apt",
+    "countRoomType": 15,
+    "sumReviews": 611,
+    "avgPrice": 96.6,
+    "avgBedrooms": 1.8,
+    "avgAccommodates": 4.4
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Private room",
+    "countRoomType": 12,
+    "sumReviews": 214,
+    "avgPrice": 64.92,
+    "avgBedrooms": 1.08,
+    "avgAccommodates": 2.08
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Shared room",
+    "countRoomType": 2,
+    "sumReviews": 8,
+    "avgPrice": 55,
+    "avgBedrooms": 1,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Brentwood-Darlington",
+    "roomType": "Total",
+    "countRoomType": 29,
+    "sumReviews": 833,
+    "avgPrice": 80.62,
+    "avgBedrooms": 1.45,
+    "avgAccommodates": 3.21
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Entire home/apt",
+    "countRoomType": 4,
+    "sumReviews": 51,
+    "avgPrice": 207.5,
+    "avgBedrooms": 1.5,
+    "avgAccommodates": 4.25
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Private room",
+    "countRoomType": 1,
+    "sumReviews": 0,
+    "avgPrice": 88,
+    "avgBedrooms": 0,
+    "avgAccommodates": 1
+  },
+  {
+    "neighborhood": "Bridgeton",
+    "roomType": "Total",
+    "countRoomType": 5,
+    "sumReviews": 51,
+    "avgPrice": 183.6,
+    "avgBedrooms": 1.2,
+    "avgAccommodates": 3.6
+  },
   {
     "neighborhood": "Bridlemile",
     "roomType": "Entire home/apt",
@@ -1129,6 +1134,12 @@
     "avgBedrooms": 1.4,
     "avgAccommodates": 3.44
   },
+
+
+
+
+
+
   {
     "neighborhood": "Lake Road",
     "roomType": "Entire home/apt",
