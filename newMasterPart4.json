@@ -59,8 +59,6 @@
     {
       "Entire home/apt":
       {
-      "neighborhood": "Ardenwald",
-      "roomType": "Entire home/apt",
       "countRoomType": 2,
       "sumReviews": 45,
       "avgPrice": 122.5,
@@ -3823,6 +3821,5 @@
         }
       }
     }
-  }
   }
 }
