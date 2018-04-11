@@ -2639,7 +2639,7 @@
           "avgBedrooms": 2.57,
           "avgAccomodates": 6.22
         },
-        "Private room"
+        "Private room":
         {
           "countRoomType": 14,
           "sumReviews": 357,
@@ -2647,7 +2647,7 @@
           "avgBedrooms": 1,
           "avgAccomodates": 2.21
         },
-        "Forest Park"
+        "Forest Park":
         {
           "countRoomType": 37,
           "sumReviews": 823,
