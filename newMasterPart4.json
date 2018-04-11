@@ -3,7 +3,7 @@
   {
     "Alameda":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 36,
         "sumReviews": 1368,
@@ -30,7 +30,7 @@
     },
     "Arbor Lodge":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
       "countRoomType": 34,
       "sumReviews": 876,
@@ -57,7 +57,7 @@
     },
     "Ardenwald":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
       "countRoomType": 2,
       "sumReviews": 45,
@@ -84,7 +84,7 @@
     },
     "Argay":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
       "countRoomType": 5,
       "sumReviews": 76,
@@ -111,7 +111,7 @@
     },
     "Boise":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 112,
         "sumReviews": 5529,
@@ -146,7 +146,7 @@
     },
     "Brentwood-Darlington":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 7,
         "sumReviews": 275,
@@ -181,7 +181,7 @@
     },
     "Bridgeton":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 8,
         "sumReviews": 51,
@@ -208,7 +208,7 @@
     },
     "Bridlemile":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 7,
         "sumReviews": 315,
@@ -235,7 +235,7 @@
     },
     "Brooklyn":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 24,
         "sumReviews": 921,
@@ -270,7 +270,7 @@
     },
     "Buckman":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 97,
         "sumReviews": 3926,
@@ -305,7 +305,7 @@
     },
     "Cathedral Park":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 31,
         "sumReviews": 629,
@@ -332,7 +332,7 @@
     },
     "Centennial":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 2,
         "sumReviews": 15,
@@ -359,7 +359,7 @@
     },
     "Center":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
       "countRoomType": 41,
       "sumReviews": 983,
@@ -386,7 +386,7 @@
     },
     "Central Beaverton":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 7,
         "sumReviews": 181,
@@ -405,7 +405,7 @@
     },
     "Concordia":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 113,
         "sumReviews": 4198,
@@ -432,7 +432,7 @@
     },
     "Corbett-Terwilliger-Lair Hill":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 28,
         "sumReviews": 321,
@@ -459,7 +459,7 @@
     },
     "Creston-Kenilworth":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 18,
         "sumReviews": 496,
@@ -486,7 +486,7 @@
     },
     "Cully":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 65,
         "sumReviews": 2287,
@@ -513,7 +513,7 @@
     },
     "Denny Whitford":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 1,
         "sumReviews": 6,
@@ -532,7 +532,7 @@
     },
     "Downtown":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 43,
         "sumReviews": 1338,
@@ -567,7 +567,7 @@
     },
     "Eastmoreland":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 17,
         "sumReviews": 424,
@@ -594,7 +594,7 @@
     },
     "Eliot":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 37,
         "sumReviews": 1939,
@@ -621,7 +621,7 @@
     },
     "Far Southwest":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 25,
         "sumReviews": 453,
@@ -656,7 +656,7 @@
     },
     "Five Oaks":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 6,
         "sumReviews": 38,
@@ -675,7 +675,7 @@
     },
     "Forest Park":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 24,
         "sumReviews": 556,
@@ -702,7 +702,7 @@
     },
     "Foster Powell":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 20,
         "sumReviews": 521,
@@ -729,7 +729,7 @@
     },
     "Greenway":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 2,
         "sumReviews": 16,
@@ -756,7 +756,7 @@
     },
     "Hayhurst":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 9,
         "sumReviews": 241,
@@ -783,7 +783,7 @@
     },
     "Hazelwood":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 3,
         "sumReviews": 250,
@@ -829,7 +829,7 @@
     },
     "Highlands":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 4,
         "sumReviews": 56,
@@ -856,7 +856,7 @@
     },
     "Hillsdale":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 20,
         "sumReviews": 590,
@@ -883,7 +883,7 @@
     },
     "Homestead":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 16,
         "sumReviews": 477,
@@ -918,7 +918,7 @@
     },
     "Hosford":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 76,
         "sumReviews": 3449,
@@ -945,7 +945,7 @@
     },
     "Irvington":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 50,
         "sumReviews": 2188,
@@ -980,7 +980,7 @@
     },
     "Kenton":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 28,
         "sumReviews": 942,
@@ -1007,7 +1007,7 @@
     },
     "Kerns":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 59,
         "sumReviews": 2143,
@@ -1034,7 +1034,7 @@
     },
     "King":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 169,
         "sumReviews": 5895,
@@ -1069,7 +1069,7 @@
     },
     "Lake road":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 2,
         "sumReviews": 39,
@@ -1104,7 +1104,7 @@
     },
     "Lents":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 6,
         "sumReviews": 55,
@@ -1139,7 +1139,7 @@
     },
     "Lewelling":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 3,
         "sumReviews": 13,
@@ -1166,7 +1166,7 @@
     },
     "Linnton":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 2,
         "sumReviews": 26,
@@ -1209,7 +1209,7 @@
         "avgBedrooms": 1,
         "AvgAccomodates": 2
       },
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 9,
         "sumReviews": 126,
@@ -1239,7 +1239,7 @@
     },
     "Madison South":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 12,
         "sumReviews": 440,
@@ -1266,7 +1266,7 @@
     },
     "Maplewood-Ashcreek":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 31,
         "sumReviews": 719,
@@ -1293,7 +1293,7 @@
     },
     "Mill Park":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 1,
         "sumReviews": 0,
@@ -1328,7 +1328,7 @@
     },
     "Montavilla":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 37,
         "sumReviews": 839,
@@ -1355,7 +1355,7 @@
     },
     "Mount Scott":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 9,
         "sumReviews": 186,
@@ -1382,7 +1382,7 @@
     },
     "Mount Tabor":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 66,
         "sumReviews": 1903,
@@ -1409,7 +1409,7 @@
     },
     "Old Town-Chinatown":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 7,
         "sumReviews": 320,
@@ -1444,7 +1444,7 @@
     },
     "Overlook":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 60,
         "sumReviews": 2710,
@@ -1479,7 +1479,7 @@
     },
     "Parkrose":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 4,
         "sumReviews": 143,
@@ -1514,7 +1514,7 @@
     },
     "Pearl District":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 35,
         "sumReviews": 583,
@@ -1541,7 +1541,7 @@
     },
     "Pleasant Valley":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 6,
         "sumReviews": 155,
@@ -1576,7 +1576,7 @@
     },
     "Portsmith":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 17,
         "sumReviews": 386,
@@ -1603,7 +1603,7 @@
     },
     "Powellhurst":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 3,
         "sumReviews": 27,
@@ -1630,7 +1630,7 @@
     },
     "Raleigh West":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 1,
         "sumReviews": 15,
@@ -1649,7 +1649,7 @@
     },
     "Reed":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 11,
         "sumReviews": 160,
@@ -1684,7 +1684,7 @@
     },
     "Richmond":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 194,
         "sumReviews": 6433,
@@ -1719,7 +1719,7 @@
     },
     "Roseway":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 64,
         "sumReviews": 1944,
@@ -1754,7 +1754,7 @@
     },
     "Saintjohns":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 4,
         "sumReviews": 138,
@@ -1781,7 +1781,7 @@
     },
     "Sellwood-Moreland":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 46,
         "sumReviews": 1695,
@@ -1808,7 +1808,7 @@
     },
     "Sexton Mountain":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 2,
         "sumReviews": 27,
@@ -1854,7 +1854,7 @@
     },
     "South Tabor":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 39,
         "sumReviews": 967,
@@ -1889,7 +1889,7 @@
     },
     "Southwest Hills":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 19,
         "sumReviews": 504,
@@ -1954,7 +1954,7 @@
     },
     "University Park":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 8,
         "sumReviews": 190,
@@ -1981,7 +1981,7 @@
     },
     "Vose":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 3,
         "sumReviews": 9,
@@ -2008,7 +2008,7 @@
     },
     "West Beaverton":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 5,
         "sumReviews": 59,
@@ -2035,7 +2035,7 @@
     },
     "West Slope":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 4,
         "sumReviews": 162,
@@ -2054,7 +2054,7 @@
     },
     "Wilkes":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 7,
         "sumReviews": 342,
@@ -2073,7 +2073,7 @@
     },
     "Woodlawn":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
       "countRoomType": 99,
       "sumReviews": 3617,
@@ -2100,7 +2100,7 @@
     },
     "Woodstock":
     {
-      "Entire home/apt":
+      "Entire home-apt":
       {
         "countRoomType": 29,
         "sumReviews": 781,
@@ -2130,7 +2130,7 @@
     {
       "Alameda":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 36,
           "sumReviews": 1233,
@@ -2157,7 +2157,7 @@
       },
       "Arbor Lodge":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 35,
           "sumReviews": 777,
@@ -2184,7 +2184,7 @@
       },
       "Ardenwald":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 2,
           "sumReviews": 40,
@@ -2211,7 +2211,7 @@
       },
       "Argay":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 4,
           "sumReviews": 53,
@@ -2238,7 +2238,7 @@
       },
       "Boise":
       {
-        "Enire home/apt":
+        "Enire home-apt":
         {
           "countRoomType": 106,
           "sumReviews": 4990,
@@ -2273,7 +2273,7 @@
       },
       "Brentwood-Darlington":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 9,
           "sumReviews": 245,
@@ -2308,7 +2308,7 @@
       },
       "Bridgeton":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 5,
           "sumReviews": 28,
@@ -2335,7 +2335,7 @@
       },
       "Bridlemile":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 8,
           "sumReviews": 350,
@@ -2362,7 +2362,7 @@
       },
       "Brooklyn":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 24,
           "sumReviews": 868,
@@ -2389,7 +2389,7 @@
       },
       "Buckman":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 95,
           "sumReviews": 3581,
@@ -2424,7 +2424,7 @@
       },
       "Cathederal Park":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 31,
           "sumReviews": 551,
@@ -2451,7 +2451,7 @@
       },
       "Centennial":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 2,
           "sumReviews": 6,
@@ -2478,7 +2478,7 @@
       },
       "Center":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 40,
           "sumReviews": 887,
@@ -2505,7 +2505,7 @@
       },
       "Cully":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 54,
           "sumReviews": 2035,
@@ -2532,7 +2532,7 @@
       },
       "Downtown":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 37,
           "sumReviews": 1154,
@@ -2567,7 +2567,7 @@
       },
       "Eastmoreland":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 18,
           "sumReviews": 379,
@@ -2594,7 +2594,7 @@
       },
       "Eliot":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 36,
           "sumReviews": 1677,
@@ -2621,7 +2621,7 @@
       },
       "Forest Park":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 23,
           "sumReviews": 466,
@@ -2648,7 +2648,7 @@
       },
       "Foster Powell":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 19,
           "sumReviews": 487,
@@ -2675,7 +2675,7 @@
       },
       "Greenway":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 8,
@@ -2702,7 +2702,7 @@
       },
       "Hayhurst":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 10,
           "sumReviews": 263,
@@ -2729,7 +2729,7 @@
       },
       "Hazelwood":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 238,
@@ -2756,7 +2756,7 @@
       },
       "Hector Campbell":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 1,
           "sumReviews": 63,
@@ -2775,7 +2775,7 @@
       },
       "Highlands":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 51,
@@ -2802,7 +2802,7 @@
       },
       "Hillsdale":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 19,
           "sumReviews": 499,
@@ -2829,7 +2829,7 @@
       },
       "Homestead":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 15,
           "sumReviews": 503,
@@ -2864,7 +2864,7 @@
       },
       "Hosford":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 75,
           "sumReviews": 3258,
@@ -2899,7 +2899,7 @@
       },
       "Irvington":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 51,
           "sumReviews": 1992,
@@ -2934,7 +2934,7 @@
       },
       "Kenton":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 27,
           "sumReviews": 871,
@@ -2961,7 +2961,7 @@
       },
       "Kerns":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 54,
           "sumReviews": 2029,
@@ -2988,7 +2988,7 @@
       },
       "King":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 156,
           "sumReviews": 5170,
@@ -3023,7 +3023,7 @@
       },
       "Lents":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 5,
           "sumReviews": 25,
@@ -3058,7 +3058,7 @@
       },
       "Lewelling":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 4,
@@ -3085,7 +3085,7 @@
       },
       "Lloyd":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 6,
           "sumReviews": 56,
@@ -3112,7 +3112,7 @@
       },
       "Madison South":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 12,
           "sumReviews": 377,
@@ -3139,7 +3139,7 @@
       },
       "Maplewood-Ashcreek":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 33,
           "sumReviews": 717,
@@ -3193,7 +3193,7 @@
       },
       "Montavilla":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 35,
           "sumReviews": 725,
@@ -3220,7 +3220,7 @@
       },
       "Mount Scott":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 11,
           "sumReviews": 167,
@@ -3247,7 +3247,7 @@
       },
       "Mount Tabor":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 66,
           "sumReviews": 1798,
@@ -3274,7 +3274,7 @@
       },
       "Old Town-Chinatown":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 9,
           "sumReviews": 291,
@@ -3309,7 +3309,7 @@
       },
       "Overlook":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 58,
           "sumReviews": 2479,
@@ -3344,7 +3344,7 @@
       },
       "Parkrose":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 4,
           "sumReviews": 128,
@@ -3371,7 +3371,7 @@
       },
       "Pearl District":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 34,
           "sumReviews": 595,
@@ -3398,7 +3398,7 @@
       },
       "Pleasant Valley":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 117,
@@ -3433,7 +3433,7 @@
       },
       "Portsmith":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 14,
           "sumReviews": 332,
@@ -3460,7 +3460,7 @@
       },
       "Powellhurst":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 2,
           "sumReviews": 15,
@@ -3487,7 +3487,7 @@
       },
       "Reed":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 9,
           "sumReviews": 128,
@@ -3514,7 +3514,7 @@
       },
       "Richmond":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 189,
           "sumReviews": 5756,
@@ -3549,7 +3549,7 @@
       },
       "Roseway":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 62,
           "sumReviews": 1765,
@@ -3584,7 +3584,7 @@
       },
       "Saintjohns":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 4,
           "sumReviews": 124,
@@ -3611,7 +3611,7 @@
       },
       "Sellwood-Moreland":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 45,
           "sumReviews": 1704,
@@ -3646,7 +3646,7 @@
       },
       "South Tabor":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 38,
           "sumReviews": 835,
@@ -3681,7 +3681,7 @@
       },
       "Southwest Hills":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 18,
           "sumReviews": 523,
@@ -3727,7 +3727,7 @@
       },
       "University Park":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 7,
           "sumReviews": 170,
@@ -3754,7 +3754,7 @@
       },
       "Vose":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 3,
           "sumReviews": 6,
@@ -3781,7 +3781,7 @@
       },
       "Woodstock":
       {
-        "Entire home/apt":
+        "Entire home-apt":
         {
           "countRoomType": 28,
           "sumReviews": 716,
