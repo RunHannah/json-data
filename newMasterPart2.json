@@ -1719,8 +1719,6 @@
   {
     "Entire home/apt":
     {
-      "neighborhood": "Reed",
-      "roomType": "Entire home/apt",
       "countRoomType": 13,
       "sumReviews": 164,
       "avgPrice": 117.85,
@@ -1729,8 +1727,6 @@
     },
     "Private room":
     {
-      "neighborhood": "Reed",
-      "roomType": "Private room",
       "countRoomType": 2,
       "sumReviews": 91,
       "avgPrice": 78.5,
@@ -1739,8 +1735,6 @@
     },
     "Total":
     {
-      "neighborhood": "Reed",
-      "roomType": "Total",
       "countRoomType": 15,
       "sumReviews": 255,
       "avgPrice": 112.6,
@@ -2007,34 +2001,36 @@
       "avgAccommodates": 3.56
     }
   }
-{
+},
   "2017-02":
   {
     "Alameda":
     {
-      "countRoomType": 38,
-      "sumReviews": 1671,
-      "avgPrice": 162.66,
-      "avgBedrooms": 2,
-      "avgAccommodates": 4.74
+      "Entire home/apt":
+      {
+        "countRoomType": 38,
+        "sumReviews": 1671,
+        "avgPrice": 162.66,
+        "avgBedrooms": 2,
+        "avgAccommodates": 4.74
+      },
+      "Private room":
+      {
+        "countRoomType": 26,
+        "sumReviews": 1198,
+        "avgPrice": 67.42,
+        "avgBedrooms": 1,
+        "avgAccommodates": 2.15
+      },
+      "Total":
+      {
+        "countRoomType": 64,
+        "sumReviews": 2869,
+        "avgPrice": 123.97,
+        "avgBedrooms": 1.59,
+        "avgAccommodates": 3.69
+      }
     },
-    "Private room":
-    {
-      "countRoomType": 26,
-      "sumReviews": 1198,
-      "avgPrice": 67.42,
-      "avgBedrooms": 1,
-      "avgAccommodates": 2.15
-    },
-    "Total":
-    {
-      "countRoomType": 64,
-      "sumReviews": 2869,
-      "avgPrice": 123.97,
-      "avgBedrooms": 1.59,
-      "avgAccommodates": 3.69
-    }
-  },
   "Arbor Lodge":
   {
     "Entire home/apt":
@@ -4237,3 +4233,5 @@
       "avgAccommodates": 3.48
     }
   }
+}
+}

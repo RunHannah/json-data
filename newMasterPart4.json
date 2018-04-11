@@ -488,8 +488,6 @@
     {
       "Entire home/apt":
       {
-        "neighborhood": "Cully",
-        "roomType": "Entire home/apt",
         "countRoomType": 65,
         "sumReviews": 2287,
         "avgPrice": 125.4,
@@ -498,8 +496,6 @@
       },
       "Private room":
       {
-        "neighborhood": "Cully",
-        "roomType": "Private room",
         "countRoomType": 41,
         "sumReviews": 1991,
         "avgPrice": 59.34,
@@ -508,8 +504,6 @@
       },
       "Total":
       {
-        "neighborhood": "Cully",
-        "roomType": "Total",
         "countRoomType": 106,
         "sumReviews": 4278,
         "avgPrice": 99.85,
@@ -1228,8 +1222,6 @@
     {
       "Private room":
       {
-        "neighborhood": "Lloyd",
-        "roomType": "Private room",
         "countRoomType": 1,
         "sumReviews": 0,
         "avgPrice": 65,
@@ -1238,8 +1230,6 @@
       },
       "Total":
       {
-        "neighborhood": "Lloyd",
-        "roomType": "Total",
         "countRoomType": 10,
         "sumReviews": 126,
         "avgPrice": 155.7,
@@ -2135,7 +2125,7 @@
         "AvgAccomodates": 3.33
       }
     }
- {
+  },
   "2016-07":
     {
       "Alameda":
@@ -2602,7 +2592,7 @@
           "avgAccomodates": 3.31
         }
       },
-      "Eliot"
+      "Eliot":
       {
         "Entire home/apt":
         {
@@ -3720,8 +3710,6 @@
       {
         "Private room":
         {
-          "neighborhood": "Sunderland",
-          "roomType": "Private room",
           "countRoomType": 1,
           "sumReviews": 0,
           "avgPrice": 100,
@@ -3730,8 +3718,6 @@
         },
         "Total":
         {
-          "neighborhood": "Sunderland",
-          "roomType": "Total",
           "countRoomType": 1,
           "sumReviews": 0,
           "avgPrice": 100,
@@ -3822,4 +3808,3 @@
       }
     }
   }
-}
